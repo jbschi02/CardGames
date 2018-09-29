@@ -13,7 +13,6 @@ namespace CardGames
         {
             InitializeComponent();
 
-            //temp
             Game game = new WarGame();
             game.playGame();
         }

@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{77062E99-1A97-479F-B3C5-97BA1FA7815D}|Default">
   <MonoDevelop.Ide.ItemProperties.CardGames.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0178C00A-6008-4974-97BA-E563C5A658A2" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CardGames/Card.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardGames Status">
     <Files>
-      <File FileName="CardGames/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="CardGames/Card.cs" Line="6" Column="10" />
+      <File FileName="CardGames/MainPage.xaml.cs" Line="15" Column="13" />
+      <File FileName="CardGames/Card.cs" Line="5" Column="6" />
       <File FileName="CardGames/PileOfCards.cs" Line="2" Column="1" />
       <File FileName="CardGames/Game.cs" Line="7" Column="18" />
       <File FileName="CardGames/Team.cs" Line="1" Column="1" />
