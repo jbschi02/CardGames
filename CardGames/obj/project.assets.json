@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/CardGames.csproj",
+      "projectUniqueName": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/CardGames.csproj",
       "projectName": "CardGames",
-      "projectPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/CardGames.csproj",
+      "projectPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/CardGames.csproj",
       "packagesPath": "/Users/johnschieman/.nuget/packages/",
-      "outputPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/obj",
+      "outputPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

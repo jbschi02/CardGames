@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames.Android/CardGames.Android.csproj",
+      "projectUniqueName": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames.Android/CardGames.Android.csproj",
       "projectName": "CardGames.Android",
-      "projectPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames.Android/CardGames.Android.csproj",
+      "projectPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames.Android/CardGames.Android.csproj",
       "packagesPath": "/Users/johnschieman/.nuget/packages/",
-      "outputPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames.Android/obj",
+      "outputPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnschieman/.config/NuGet/NuGet.Config"
@@ -802,8 +802,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/CardGames.csproj": {
-              "projectPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/CardGames.csproj"
+            "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/CardGames.csproj": {
+              "projectPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/CardGames.csproj"
             }
           }
         }

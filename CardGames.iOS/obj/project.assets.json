@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames.iOS/CardGames.iOS.csproj",
+      "projectUniqueName": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames.iOS/CardGames.iOS.csproj",
       "projectName": "CardGames.iOS",
-      "projectPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames.iOS/CardGames.iOS.csproj",
+      "projectPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames.iOS/CardGames.iOS.csproj",
       "packagesPath": "/Users/johnschieman/.nuget/packages/",
-      "outputPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames.iOS/obj",
+      "outputPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnschieman/.config/NuGet/NuGet.Config"
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/CardGames.csproj": {
-              "projectPath": "/Users/johnschieman/Projects/jbschi02/CardGames/CardGames/CardGames.csproj"
+            "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/CardGames.csproj": {
+              "projectPath": "/Users/johnschieman/Projects/jbschi02/local/sprint-1/CG-0001/CardGames/CardGames/CardGames.csproj"
             }
           }
         }
